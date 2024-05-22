@@ -2,7 +2,7 @@
 
 ## Contexto
 
-O projeto **CMSP BYPAS** consiste em dois scripts principais: `index.js` e `script-navegador.js`. 
+O projeto **CMSP BYPASS** consiste em dois scripts principais: `index.js` e `script-navegador.js`. 
 
 - O `index.js` é o back-end do projeto, que utiliza o Express e a API da Google para inteligência artificial para responder questões educacionais. Este script deve ser hospedado em uma plataforma como Heroku para que funcione como uma API.
 
