@@ -1,4 +1,4 @@
-# CMSP BYPAS
+# CMSP BYPASS
 
 ## Contexto
 
