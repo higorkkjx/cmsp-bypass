@@ -9,4 +9,5 @@ O projeto **CMSP BYPASS** consiste em dois scripts principais: `index.js` e `scr
 - O `script-navegador.js` é um script que deve ser executado no console do navegador ao acessar o site CMSP. Ele coleta questões e alternativas diretamente da página e as envia para a API hospedada, exibindo as respostas obtidas.
 
 ## Observação
+✅ Nosso script é capaz de analisar o texto, a imagem e as alternativas de uma questão para fornecer a resposta correta. Graças ao avançado no modelo de inteligência artificial, alcançamos uma precisão de 99%;
 Este projeto está em desenvolvimento contínuo e pode receber atualizações para melhorar a funcionalidade e a precisão das respostas.
