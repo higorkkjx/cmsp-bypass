@@ -10,4 +10,5 @@ O projeto **CMSP BYPASS** consiste em dois scripts principais: `index.js` e `scr
 
 ## Observação
 ✅ Nosso script é capaz de analisar o texto, a imagem e as alternativas de uma questão para fornecer a resposta correta. Graças ao avançado no modelo de inteligência artificial, alcançamos uma precisão de 99%;
-Este projeto está em desenvolvimento contínuo e pode receber atualizações para melhorar a funcionalidade e a precisão das respostas.
+
+⚠️ Este projeto está em desenvolvimento contínuo e pode receber atualizações para melhorar a funcionalidade e a precisão das respostas.
