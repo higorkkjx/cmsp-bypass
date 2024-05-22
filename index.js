@@ -125,6 +125,7 @@ app.get('/responder2', async (req, res) => {
     
       res.json({ resposta });
     } else {
+      //EM "HISTORY" abaixo, contem um mini treinamento para a IA ser mais "inteligente"
       chatSession = model.startChat({
         generationConfig,
         safetySettings,
