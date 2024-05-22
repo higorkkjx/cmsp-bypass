@@ -1,4 +1,4 @@
-# CMSP BYPASS
+# CMSP BYPASS -Burlando o centro de midias de são paulo e obtendo respostas das tarefas em segundos com apenas um clique. 📓🔥
 
 ## Contexto
 
